@@ -3,6 +3,10 @@
  * @version: 1.0
  * @date: 02.07.2015
  */
-public class main {
+public class kino {
 	
+	public static void main(String [ ] args)
+	{
+		
+	}
 }
