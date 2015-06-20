@@ -3,6 +3,15 @@
  * @version: 1.0
  * @date: 02.07.2015
  */
-public class kinosaal {
-
+public class kinosaal 
+{
+	private Integer anzSitzplaetze;
+	private Integer KinoSaalNummer;
+	
+	public kinosaal()
+	{
+		
+	}
+	
+	
 }

@@ -3,6 +3,12 @@
  * @version: 1.0
  * @date: 02.07.2015
  */
-public class reservation {
-
+public class reservation 
+{
+	private String telefonNummer;
+	
+	public reservation()
+	{
+		
+	}
 }

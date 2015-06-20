@@ -3,6 +3,13 @@
  * @version: 1.0
  * @date: 02.07.2015
  */
-public class film {
-
+public class film 
+{
+	String filmName;
+	Integer freigabealter;
+	
+	public film()
+	{
+		
+	}
 }
